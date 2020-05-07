@@ -1,6 +1,6 @@
 # quiz_maker
 
-A new Flutter project.
+In this application you make your own quizes also enjoy playing them.
 
 ## Getting Started
 
